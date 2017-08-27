@@ -24,7 +24,6 @@ PRODUCT_PACKAGES += \
     com.qti.location.sdk
 
 PRODUCT_PACKAGES += \
-    CNEService \
     cneapiclient \
     com.quicinc.cne \
     ConnectivityExt
