@@ -50,4 +50,4 @@ PRODUCT_PACKAGES += \
     libts_detected_face_hal \
     libts_face_beautify_hal
 
-$(call inherit-product, vendor/xiaomi/kenzo/vendor-blobs.mk)
+$(call inherit-product, vendor/xiaomi/hydrogen/vendor-blobs.mk)
